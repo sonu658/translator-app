@@ -1,0 +1,8 @@
+gradio
+deep-translator
+sacrebleu
+transformers
+bert-score
+indic-nlp-library
+indic-transliteration
+langdetect
